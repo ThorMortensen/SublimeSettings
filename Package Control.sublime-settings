@@ -1,0 +1,15 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Go To Definition",
+		"Non Text Files",
+		"Package Control",
+		"Smart VHDL",
+		"VHDL",
+		"VHDL Mode"
+	]
+}

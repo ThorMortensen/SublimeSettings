@@ -1,0 +1,7 @@
+[
+		{ "keys": ["ctrl+shift+c"], "command": "toggle_comment", "args": { "block": false } },
+    { "keys": ["ctrl+shift+/"], "command": "toggle_comment", "args": { "block": true } },
+    {"keys": ["alt+shift+f"], "command": "reindent", "args": {"single_line": true}},
+    { "keys": ["button8"], "command": "jump_back" },
+    { "keys": ["button9"], "command": "jump_forward" }
+]
