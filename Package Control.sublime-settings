@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Git",
 		"Go To Definition",
 		"Non Text Files",
 		"Package Control",

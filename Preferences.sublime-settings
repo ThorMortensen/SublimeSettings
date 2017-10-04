@@ -9,16 +9,17 @@
 	[
 		"Vintage"
 	],
+	"open_externally_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.zip",
+		"*.pdf"
+	],
 	"spell_check": true,
 	"tab_size": 2,
 	"theme": "Adaptive.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"open_externally_patterns": [
-    "*.jpg",
-    "*.jpeg",
-    "*.png",
-    "*.gif",
-    "*.zip",
-    "*.pdf"
-]
+	"translate_tabs_to_spaces": true
 }
