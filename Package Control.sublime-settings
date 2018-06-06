@@ -5,13 +5,20 @@
 	],
 	"installed_packages":
 	[
+		"File History",
+		"FileDiffs",
+		"FindSelected",
 		"Git",
 		"Go To Definition",
+		"LSP",
 		"Non Text Files",
 		"Package Control",
 		"PowerCursors",
 		"Smart VHDL",
+		"SummitLinter",
+		"SVN",
 		"Terminal",
+		"VHDL",
 		"VHDL Mode"
 	]
 }

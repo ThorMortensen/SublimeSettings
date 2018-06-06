@@ -4,5 +4,11 @@
     {"keys": ["alt+shift+f"], "command": "reindent", "args": {"single_line": true}},
     { "keys": ["button8"], "command": "jump_back" },
     { "keys": ["button9"], "command": "jump_forward" },
-    { "keys": ["ctrl+s"], "command": "save_all" }
+    { "keys": ["ctrl+s"], "command": "save_all" },
+
+    //Find selection
+    { "keys": ["f2"], "command": "find_selected_next", "args": { "alt": "last_search" } },
+    { "keys": ["f1"], "command": "find_selected_previous", "args": { "alt": "last_search" } },
+    { "keys": ["f4"], "command": "find_selected_next", "args": { "alt": "clipboard" } },
+    { "keys": ["f3"], "command": "find_selected_previous", "args": { "alt": "clipboard" } }
 ]
